@@ -1,7 +1,3 @@
-# LoveCodeSum
-爱心代码等趣味代码汇总合集
-
-
 <div align="center">
      <h1>✨ Love Code summary✨<br>❤️浪漫代码合集❤️</h1> 
 </div>
@@ -79,8 +75,60 @@
     </a>
     </td>
     </tr>
+<!-- 第5行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/12">
+            <p align="center">12</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/12/12.jpg"/>
+            <p align="center"> 恋爱日期+文字</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/11/">
+            <p align="center">11</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/11/11.jpg"/>
+        <p align="center"> 爱心树代码</p>
+    </a>
+    </td>
+    </tr>
+<!-- 第6行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/10">
+            <p align="center">10</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/10/10.jpg"/>
+            <p align="center"> 满屏红色爱心+文字</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/9/">
+            <p align="center">9</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/9/9.jpg"/>
+        <p align="center"> 红蓝线条爱心代码</p>
+    </a>
+    </td>
+    </tr>
+<!-- 第7行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/8">
+            <p align="center">8</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/8/8.jpg"/>
+            <p align="center"> 满屏红色爱心+文字</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/5/">
+            <p align="center">5</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/5/5.jpg"/>
+        <p align="center"> 满屏文字爱心代码</p>
+    </a>
+    </td>
+    </tr>
 
-# 生日快乐代码
+
+<!-- # 生日快乐代码 -->
 <table align="center">
  <p align="center">生日快乐代码</p>
 <table align="center">
@@ -122,20 +170,60 @@
     </td>
     </tr>
 
-
-# 流星雨代码
+<!-- 烟花 -->
 <table align="center">
- <p align="center">流星雨代码</p>
-<table align="center">
-<table align="center">
+        <p align="center">烟花</p>
     <!-- 第1行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://love99you.github.io/liuxingyu/>
+        <a target="_blank" href="https://love99you.github.io/fireworks_3d/">
+            <p align="center">fireworks_3d</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/fireworks_3d/2023.jpg"/>
+            <p align="center">2023新年快乐烟花+音乐</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/fireworks_3/">
+            <p align="center">fireworks_3</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/fireworks_3/烟花3.jpg"/>
+            <p align="center">烟花绽放</p>
+        </a>
+    </td>
+    </tr>
+
+
+<!-- 圣诞树 -->
+<table align="center">
+        <p align="center">圣诞树</p>
+    <!-- 第1行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CT3/">
+            <p align="center">CT3</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CT3/圣诞树3.jpg"/>
+            <p align="center">圣诞树+音乐</p>
+        </a>
+    </td>
+   
+
+
+<!-- 其他 -->
+<table align="center">
+        <p align="center">其他</p>
+    <!-- 第1行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/liuxingyu/">
             <p align="center">liuxingyu</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/liuxingyu/流星雨1.jpg"/>
             <p align="center">流星雨</p>
         </a>
     </td>
-    
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/rose/">
+            <p align="center">rose</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/rose/玫瑰花.jpg"/>
+            <p align="center">玫瑰花</p>
+        </a>
+    </td>
     </tr>
