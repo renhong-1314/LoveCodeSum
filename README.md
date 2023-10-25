@@ -228,7 +228,7 @@
     </td>
     </tr>
 
-    <table align="center">
+<table align="center">
     <!-- 第2行 -->
     <tr>
     <td valign="top">
