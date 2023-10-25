@@ -259,7 +259,7 @@
         <a target="_blank" href="https://love99you.github.io/liuxingyu2/">
             <p align="center">liuxingyu2</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/liuxingyu2/liuxingyu2.jpg"/>
-            <p align="center">流星雨</p>
+            <p align="center">流星雨2</p>
         </a>
     </td>
     <td valign="top">
@@ -270,4 +270,13 @@
         </a>
     </td>
     </tr>
-
+    <!-- 第3行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/starsamazing/">
+            <p align="center">starsamazing</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/starsamazing/浪漫星空和文字.jpg"/>
+            <p align="center">流星雨2</p>
+        </a>
+    </td>
+    </tr>
