@@ -126,6 +126,30 @@
     </a>
     </td>
     </tr>
+    <!-- 第8行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/loveyellowcolor">
+            <p align="center">loveyellowcolor</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveyellowcolor/淡黄色爱心.jpg"/>
+            <p align="center">黄色爱心代码</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovebluecolor/">
+            <p align="center">lovebluecolor</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovebluecolor/蓝色爱心代码.jpg"/>
+        <p align="center"> 蓝色爱心代码</p>
+    </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovegreencolor/">
+            <p align="center">lovegreencolor</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovegreencolor/绿色爱心代码.jpg"/>
+        <p align="center"> 绿色爱心代码</p>
+    </a>
+    </td>
+    </tr>
 
 
 <!-- # 生日快乐代码 -->
