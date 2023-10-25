@@ -276,7 +276,7 @@
         <a target="_blank" href="https://love99you.github.io/starsamazing/">
             <p align="center">starsamazing</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/starsamazing/浪漫星空和文字.jpg"/>
-            <p align="center">流星雨2</p>
+            <p align="center">浪漫星空+文字背景+黑客酷炫效果</p>
         </a>
     </td>
     </tr>
