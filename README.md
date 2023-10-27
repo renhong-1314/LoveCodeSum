@@ -12,14 +12,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/loveamazing/">
             <p align="center">loveamazing</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/loveamazing/爱心代码文字掉落.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveamazing/爱心代码文字掉落.jpg" width="1000" height="150" />
             <p align="center">  动态爱心代码  +     黑客炫酷文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love12/">
             <p align="center">love12</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love12/love12.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love12/love12.jpg" width="1000" height="150" />
         <p align="center"> 跳动的红色爱心，中间文字</p>
     </a>
     </td>
@@ -29,14 +29,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovewithtxt/">
             <p align="center">lovewithtxt</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovewithtxt/lovewithtxt.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovewithtxt/lovewithtxt.jpg" width="1200" height="150"/>
             <p align="center">  双层爱心代码  +     文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovedouble/">
             <p align="center">lovedouble</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovedouble/lovewithtxt2.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovedouble/lovewithtxt2.jpg" width="1200" height="150"/>
         <p align="center"> 跳动的爱心，右侧文字</p>
     </a>
     </td>
@@ -46,14 +46,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love13">
             <p align="center">love13</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love13/love13.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love13/love13.jpg" width="1200" height="150"/>
             <p align="center">  粉色背景红色爱心+文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love3d/">
             <p align="center">love3d</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love3d/love3d.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love3d/love3d.jpg" width="1200" height="150"/>
         <p align="center"> 旋转的3D爱心</p>
     </a>
     </td>
@@ -63,14 +63,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love11">
             <p align="center">love11</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love11/love11.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love11/love11.jpg" width="1200" height="150"/>
             <p align="center">  跳动的粒子爱心</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/1/">
             <p align="center">1</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/1/love1.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/1/love1.jpg" width="1200" height="150"/>
         <p align="center"> 爱心代码+中间名字</p>
     </a>
     </td>
@@ -80,14 +80,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/12">
             <p align="center">12</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/12/12.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/12/12.jpg" width="1200" height="150"/>
             <p align="center"> 恋爱日期+文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/11/">
             <p align="center">11</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/11/11.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/11/11.jpg" width="1200" height="150"/>
         <p align="center"> 爱心树代码</p>
     </a>
     </td>
@@ -97,14 +97,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/10">
             <p align="center">10</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/10/10.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/10/10.jpg" width="1200" height="150"/>
             <p align="center"> 满屏红色爱心+文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/9/">
             <p align="center">9</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/9/9.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/9/9.jpg" width="1200" height="180"/>
         <p align="center"> 红蓝线条爱心代码</p>
     </a>
     </td>
@@ -114,14 +114,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/8">
             <p align="center">8</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/8/8.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/8/8.jpg" width="1400" height="160"/>
             <p align="center"> 满屏红色爱心+文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/5/">
             <p align="center">5</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/5/5.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/5/5.jpg" />
         <p align="center"> 满屏文字爱心代码</p>
     </a>
     </td>
@@ -131,21 +131,21 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/loveyellowcolor">
             <p align="center">loveyellowcolor</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/loveyellowcolor/淡黄色爱心.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveyellowcolor/淡黄色爱心.jpg" width="1400" height="160"/>
             <p align="center">黄色爱心代码</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovebluecolor/">
             <p align="center">lovebluecolor</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovebluecolor/蓝色爱心代码.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovebluecolor/蓝色爱心代码.jpg" width="1400" height="160"/>
         <p align="center"> 蓝色爱心代码</p>
     </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovegreencolor/">
             <p align="center">lovegreencolor</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovegreencolor/绿色爱心代码.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovegreencolor/绿色爱心代码.jpg" width="1400" height="160"/>
         <p align="center"> 绿色爱心代码</p>
     </a>
     </td>
@@ -155,21 +155,21 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/loveeverytime">
             <p align="center">loveeverytime</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/loveeverytime/心跳加速.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveeverytime/心跳加速.jpg" width="1400" height="160"/>
             <p align="center"> 跳动的红色爱心+心跳加速文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/rose2/">
             <p align="center">rose2</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/rose2/玫瑰花浪漫至死不渝.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/rose2/玫瑰花浪漫至死不渝.jpg" />
         <p align="center"> 玫瑰花 浪漫至死不渝</p>
     </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/boysendlove">
             <p align="center">boysendlove</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/boysendlove/小人发送爱心.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/boysendlove/小人发送爱心.jpg" width="1400" height="160"/>
             <p align="center"> 小男孩发送爱心biu</p>
         </a>
     </td>
@@ -179,21 +179,21 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovered">
             <p align="center">lovered</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovered/033.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovered/033.jpg" width="1400" height="160"/>
             <p align="center"> 跳动的红色爱心外圈钻石</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovemuch">
             <p align="center">lovemuch</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovemuch/lovemuch.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovemuch/lovemuch.jpg" width="1400" height="160"/>
             <p align="center"> 红色爱心+我喜欢你</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/together">
             <p align="center">together</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/together/在一起吧粒子-封面.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/together/在一起吧粒子-封面.jpg" width="1400" height="160"/>
             <p align="center"> 粒子 我们在一起吧</p>
         </a>
     </td>
@@ -203,21 +203,21 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/My520">
             <p align="center">My520</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/My520/my520.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/My520/my520.jpg" width="1400" height="160"/>
             <p align="center"> 表白神器 百度搜索展示结果</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://www.bilibili-codeart.site/?aa">
             <p align="center">bilibili-codeart.site</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/My520/爱心15.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/My520/爱心15.jpg" width="1400" height="160"/>
             <p align="center"> 手机版爱心</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love16">
             <p align="center">love16</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love16/爱心16.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love16/爱心16.jpg" width="1400" height="160"/>
             <p align="center"> 红色变幻爱心</p>
         </a>
     </td>
@@ -227,7 +227,7 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love17">
             <p align="center">love17</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love17/送给你的爱心.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love17/送给你的爱心.jpg" width="1400" height="160"/>
             <p align="center"> 红色变幻爱心+名字</p>
         </a>
     </td>
