@@ -12,14 +12,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/loveamazing/">
             <p align="center">loveamazing</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/loveamazing/爱心代码文字掉落.jpg" width="1000" height="150" />
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveamazing/爱心代码文字掉落.jpg" width="800" height="150" />
             <p align="center">  动态爱心代码  +     黑客炫酷文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/love12/">
             <p align="center">love12</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/love12/love12.jpg" width="1000" height="150" />
+            <img src="https://cdn.jsdelivr.net/gh/love99you/love12/love12.jpg" width="800" height="150" />
         <p align="center"> 跳动的红色爱心，中间文字</p>
     </a>
     </td>
@@ -29,14 +29,14 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovewithtxt/">
             <p align="center">lovewithtxt</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovewithtxt/lovewithtxt.jpg" width="1200" height="150"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovewithtxt/lovewithtxt.jpg" width="800" height="150"/>
             <p align="center">  双层爱心代码  +     文字</p>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/lovedouble/">
             <p align="center">lovedouble</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/lovedouble/lovewithtxt2.jpg" width="1200" height="150"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovedouble/lovewithtxt2.jpg" width="800" height="150"/>
         <p align="center"> 跳动的爱心，右侧文字</p>
     </a>
     </td>
