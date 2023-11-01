@@ -231,6 +231,13 @@
             <p align="center"> 红色变幻爱心+名字</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovewithstar">
+            <p align="center">lovewithstar</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovewithstar/流星雨爱心.jpg" width="1400" height="160"/>
+            <p align="center"> 粉丝爱心+流星雨背景</p>
+        </a>
+    </td>
     </tr>
 
 <!-- # 生日快乐代码 -->
@@ -292,6 +299,16 @@
             <p align="center">fireworks_3</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/fireworks_3/烟花3.jpg"/>
             <p align="center">烟花绽放</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第2行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/2024new_year/">
+            <p align="center">2024new_year</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/2024new_year/2024新年快乐.jpg"/>
+            <p align="center">2024新年快乐烟花+音乐</p>
         </a>
     </td>
     </tr>
@@ -369,3 +386,26 @@
         </a>
     </td>
     </tr>
+    <!-- 第4行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="http://weixin.1022reba.top/m1/20211031/125914446129.php#pt_1698754271901">
+            <p align="center">万圣节代码</p>
+            <img src=""/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://gitee.com/httishere/htt-code">
+            <p align="center">圣诞树代码</p>
+            <img src=""/>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://gitee.com/httishere/htt-code/tree/%E5%9C%A3%E8%AF%9E%E4%BB%A3%E7%A0%81%E7%AC%AC%E4%BA%8C%E5%BC%B9/">
+            <p align="center">圣诞树代码2</p>
+            <img src=""/>
+        </a>
+    </td>
+    </tr>
+
+
