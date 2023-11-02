@@ -281,6 +281,16 @@
         </a>
     </td>
     </tr>
+ <!-- 第3行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/happybirthdaynice/">
+            <p align="center">happybirthdaynice</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/happybirthdaynice/生日快乐好看html.jpg"/>
+            <p align="center">生日快乐代码好好看</p>
+        </a>
+    </td>
+    </tr>
 
 <!-- 烟花 -->
 <table align="center">
