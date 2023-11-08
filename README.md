@@ -246,6 +246,54 @@
         </a>
     </td>
     </tr>
+    <!-- 第12行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/red3dlove">
+            <p align="center">red3dlove</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/red3dlove/red3dlove.jpg" width="1400" height="160"/>
+            <p align="center"> 红色3d爱心</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/pink3dlove">
+            <p align="center">pink3dlove</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/pink3dlove/粉色3d粒子爱心.jpg" width="1400" height="160"/>
+            <p align="center"> 粉红色3d爱心</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/blue3dlove">
+            <p align="center">blue3dlove</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/blue3dlove/蓝色3d粒子爱心效果.jpg" width="1400" height="160"/>
+            <p align="center"> 蓝色3d爱心</p>
+        </a>
+    </td>
+    </tr>
+  <!-- 第13行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/missyou">
+            <p align="center">missyou</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/missyou/我在想你.jpg" width="1400" height="160"/>
+            <p align="center"> 我在想你跳动代码</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/loveyou68languages">
+            <p align="center">loveyou68languages</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveyou68languages/68种语言说爱你效果.jpg" width="1400" height="160"/>
+            <p align="center"> 68种语言说爱你</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/loveshalou">
+            <p align="center">loveshalou</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveshalou/沙漏爱心预览效果.jpg" width="1400" height="160"/>
+            <p align="center"> 爱心沙漏流动粉红色</p>
+        </a>
+    </td>
+    </tr>
 
 <!-- # 生日快乐代码 -->
 <table align="center">
@@ -297,7 +345,32 @@
             <p align="center">生日快乐代码好好看</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/happybirthdaynoname/">
+            <p align="center">happybirthdaynoname</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/happybirthdaynoname/生日快乐粒子.jpg"/>
+            <p align="center">生日快乐粒子不带名字</p>
+        </a>
+    </td>
     </tr>
+    <!-- 第4行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/happybirthday360/">
+            <p align="center">happybirthday360</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/happybirthday360/祝你生日快乐360度.jpg"/>
+            <p align="center">生日快乐代码360度旋转</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/happybirthdaynoname/">
+            <p align="center">happybirthdaynoname</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/happybirthdaynoname/生日快乐粒子.jpg"/>
+            <p align="center">生日快乐粒子不带名字</p>
+        </a>
+    </td>
+    </tr>
+
 
 <!-- 烟花 -->
 <table align="center">
@@ -328,6 +401,23 @@
             <p align="center">2024新年快乐烟花+音乐</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/newyear/">
+            <p align="center">newyear</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/newyear/新春快乐.jpg"/>
+            <p align="center">新春快乐粒子</p>
+        </a>
+    </td>
+    </tr>
+<!-- 第3行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/newyear_wish/">
+            <p align="center">newyear_wish</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/newyear_wish/新春祝福.jpg"/>
+            <p align="center">新春祝福红色大气</p>
+        </a>
+    </td>
     </tr>
 
 
@@ -348,6 +438,23 @@
             <p align="center">CT6</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/CT6/圣诞快乐.jpg"/>
             <p align="center">圣诞树文字+音乐</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第2行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CTstatic/">
+            <p align="center">CTstatic</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CTstatic/静态圣诞树.jpg"/>
+            <p align="center">圣诞树静态</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CTline/">
+            <p align="center">CTline</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CTline/彩带圣诞树.jpg"/>
+            <p align="center">圣诞树彩带</p>
         </a>
     </td>
     </tr>
