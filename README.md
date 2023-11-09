@@ -303,6 +303,13 @@
             <p align="center"> 彩色线条爱心代码</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovefulltxt">
+            <p align="center">lovefulltxt</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovefulltxt/爱心文字雨.jpg" width="1400" height="160"/>
+            <p align="center"> 爱心字幕雨</p>
+        </a>
+    </td>
     </tr>
 
 <!-- # 生日快乐代码 -->
