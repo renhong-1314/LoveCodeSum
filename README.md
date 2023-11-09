@@ -310,6 +310,23 @@
             <p align="center"> 爱心字幕雨</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/loveprincess">
+            <p align="center">loveprincess</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/loveprincess/送给我的公主殿下效果图.jpg" width="1400" height="160"/>
+            <p align="center"> 爱心送给我的公主殿下</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第15行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovemusic">
+            <p align="center">lovemusic</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovemusic/love.jpg" width="1400" height="160"/>
+            <p align="center"> 音频爱心代码</p>
+        </a>
+    </td>
     </tr>
 
 <!-- # 生日快乐代码 -->
@@ -475,6 +492,40 @@
         </a>
     </td>
     </tr>
+   <!-- 第3行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CTsingle/">
+            <p align="center">CTsingle</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CTsingle/圣诞树.jpg"/>
+            <p align="center">圣诞树简单</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CTGoodLines/">
+            <p align="center">CTGoodLines</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CTGoodLines/圣诞树.jpg"/>
+            <p align="center">圣诞树彩带好好看</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第4行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/ct7/">
+            <p align="center">ct7</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/ct7/圣诞树.jpg"/>
+            <p align="center">圣诞树绿色旋转</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CT1/">
+            <p align="center">CT1</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CT1/ct1.jpg"/>
+            <p align="center">圣诞树音乐中文</p>
+        </a>
+    </td>
+    </tr>
    
 
 
@@ -524,6 +575,13 @@
             <p align="center">starsamazing</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/starsamazing/浪漫星空和文字.jpg"/>
             <p align="center">浪漫星空+文字背景+黑客酷炫效果</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/starsblue/">
+            <p align="center">starsblue</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/starsblue/星空.jpg"/>
+            <p align="center">浪漫星空蓝色</p>
         </a>
     </td>
     </tr>
