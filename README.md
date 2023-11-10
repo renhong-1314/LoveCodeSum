@@ -526,6 +526,16 @@
         </a>
     </td>
     </tr>
+     <!-- 第5行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CT8/">
+            <p align="center">CT8</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CT8/圣诞树.png"/>
+            <p align="center">AE圣诞树旋转视频</p>
+        </a>
+    </td>
+    </tr>
    
 
 
@@ -582,6 +592,16 @@
             <p align="center">starsblue</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/starsblue/星空.jpg"/>
             <p align="center">浪漫星空蓝色</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第4行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/longjuanfeng/">
+            <p align="center">longjuanfeng</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/longjuanfeng/龙卷风.jpg"/>
+            <p align="center">龙卷风酷炫效果</p>
         </a>
     </td>
     </tr>
