@@ -624,7 +624,7 @@
     <td valign="top">
         <a target="_blank" href="https://love99you.github.io/starcolor/">
             <p align="center">starcolor</p>
-            <img src="https://cdn.jsdelivr.net/gh/love99you/starcolor/繁星宇宙.jpg"/>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/starcolor/繁星宇宙.png"/>
             <p align="center">繁星宇宙</p>
         </a>
     </td>
