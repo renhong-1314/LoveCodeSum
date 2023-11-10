@@ -535,6 +535,13 @@
             <p align="center">AE圣诞树旋转视频</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CT9/">
+            <p align="center">CT9</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CT9/圣诞树.png"/>
+            <p align="center">圣诞树旋转绿色线条</p>
+        </a>
+    </td>
     </tr>
    
 
@@ -602,6 +609,23 @@
             <p align="center">longjuanfeng</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/longjuanfeng/龙卷风.jpg"/>
             <p align="center">龙卷风酷炫效果</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/circle/">
+            <p align="center">circle</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/circle/炫彩光圈.jpg"/>
+            <p align="center">炫酷光圈</p>
+        </a>
+    </td>
+    </tr>
+    <!-- 第5行 -->
+    <tr>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/starcolor/">
+            <p align="center">starcolor</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/starcolor/繁星宇宙.jpg"/>
+            <p align="center">繁星宇宙</p>
         </a>
     </td>
     </tr>
