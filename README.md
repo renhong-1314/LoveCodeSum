@@ -327,6 +327,20 @@
             <p align="center"> 音频爱心代码</p>
         </a>
     </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/lovechange">
+            <p align="center">lovechange</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/lovechange/黄色爱心代码效果.png" width="1400" height="160"/>
+            <p align="center"> i love you跳动爱心</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/Pink-Heart">
+            <p align="center">Pink-Heart</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/Pink-Heart/1.png" width="1400" height="160"/>
+            <p align="center"> 原始爱心代码</p>
+        </a>
+    </td>
     </tr>
 
 <!-- # 生日快乐代码 -->
