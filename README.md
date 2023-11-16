@@ -408,6 +408,13 @@
         </a>
     </td>
     <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/HBDVoice/">
+            <p align="center">HBDVoice</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/HBDVoice/效果.png" width="1400" height="160"/>
+            <p align="center">生日快乐烟花声音</p>
+        </a>
+    </td>
+    <td valign="top">
         <a target="_blank" href="https://love99you.github.io/happybirthdaycakecolor/">
             <p align="center">happybirthdaycakecolor</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/happybirthdaycakecolor/生日蛋糕代码.jpg" width="1400" height="160"/>
@@ -623,6 +630,13 @@
             <p align="center">CT8</p>
             <img src="https://cdn.jsdelivr.net/gh/love99you/CT8/圣诞树.png" width="1400" height="160"/>
             <p align="center">AE圣诞树旋转视频</p>
+        </a>
+    </td>
+    <td valign="top">
+        <a target="_blank" href="https://love99you.github.io/CTlove/">
+            <p align="center">CTlove</p>
+            <img src="https://cdn.jsdelivr.net/gh/love99you/CTlove/圣诞树代码表白版.png" width="1400" height="160"/>
+            <p align="center">圣诞树表白版</p>
         </a>
     </td>
     </tr>
